@@ -1,2 +1,2 @@
-This is my first readme for git
+I have changed my readme from github
 
